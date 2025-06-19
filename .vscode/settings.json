@@ -1,0 +1,13 @@
+{
+    "python.defaultInterpreterPath": "/opt/anaconda3/envs/ml-env/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.condaPath": "/opt/anaconda3/bin/conda",
+    "python.linting.enabled": true,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}"
+    ],
+    "jupyter.kernels.excludePythonEnvironments": [
+        "/opt/anaconda3/envs/ml-env/bin/python"
+    ]
+}
