@@ -8,6 +8,9 @@
         "${workspaceFolder}"
     ],
     "jupyter.kernels.excludePythonEnvironments": [
-        "/opt/anaconda3/envs/ml-env/bin/python"
-    ]
+        
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": []
 }
