@@ -1,0 +1,181 @@
+{
+  "invoices": [
+    {
+      "invoice_number": "882736",
+      "invoice_date": "2025-08-18",
+      "customer_name": "Ulvik Herad",
+      "customer_address": "Skeisvegen 3, 5730 Ulvik, Norway",
+      "vendor_name": "XYLEM WATER SOLUTIONS AS",
+      "vendor_address": "FETVEIEN 23, NO-2007 KJELLER, NORWAY",
+      "purchase_order_number": "546212",
+      "currency": "NOK",
+      "pages": [
+        1,
+        2
+      ],
+      "items": [
+        {
+          "item_name": "GENYO 16A R15-30 W/C",
+          "quantity": 1.0,
+          "unit_price": 969.38,
+          "nett_value": 969.38,
+          "hs_code": "90328100",
+          "page_number": 1
+        },
+        {
+          "item_name": "5S8C6/11/5 C L20 DE A",
+          "quantity": 1.0,
+          "unit_price": 4211.45,
+          "nett_value": 4211.45,
+          "hs_code": "84137029",
+          "page_number": 1
+        }
+      ],
+      "totals": {
+        "subtotal": null,
+        "tax": null,
+        "grand_total": 5180.83
+      }
+    },
+    {
+      "invoice_number": "882738",
+      "invoice_date": "2025-08-18",
+      "customer_name": "Meox Drift AS",
+      "customer_address": "Holmenvn. 8, 7820 SPILLUM, Norway",
+      "vendor_name": "XYLEM WATER SOLUTIONS AS",
+      "vendor_address": "FETVEIEN 23, NO-2007 KJELLER, NORWAY",
+      "purchase_order_number": "546142",
+      "currency": "NOK",
+      "pages": [
+        3,
+        4
+      ],
+      "items": [
+        {
+          "item_name": "DS 3045.181 MT Flygt",
+          "quantity": 2.0,
+          "unit_price": 5887.99,
+          "nett_value": 11775.98,
+          "hs_code": "84137021",
+          "page_number": 3
+        }
+      ],
+      "totals": {
+        "subtotal": null,
+        "tax": null,
+        "grand_total": 11775.98
+      }
+    },
+    {
+      "invoice_number": "882739",
+      "invoice_date": "2025-08-18",
+      "customer_name": "Heidenreich AS",
+      "customer_address": "Industriveien 6a, 2020 SKEDSMOKORSET, Norway",
+      "vendor_name": "XYLEM WATER SOLUTIONS AS",
+      "vendor_address": "FETVEIEN 23, NO-2007 KJELLER, NORWAY",
+      "purchase_order_number": "546240",
+      "currency": "NOK",
+      "pages": [
+        5,
+        6
+      ],
+      "items": [
+        {
+          "item_name": "AXELTATNING 12 MM F TATN.FLANS M SKARA",
+          "quantity": 2.0,
+          "unit_price": 531.83,
+          "nett_value": 1063.66,
+          "hs_code": "84842000",
+          "page_number": 5
+        },
+        {
+          "item_name": "O-RING TILL ASV, 1040",
+          "quantity": 2.0,
+          "unit_price": 88.64,
+          "nett_value": 177.28,
+          "hs_code": "40169997",
+          "page_number": 5
+        }
+      ],
+      "totals": {
+        "subtotal": null,
+        "tax": null,
+        "grand_total": 1240.94
+      }
+    },
+    {
+      "invoice_number": "882740",
+      "invoice_date": "2025-08-18",
+      "customer_name": "Sandnes kommune",
+      "customer_address": "Lutsiveien 179, 4309 SANDNES, Norway",
+      "vendor_name": "XYLEM WATER SOLUTIONS AS",
+      "vendor_address": "FETVEIEN 23, NO-2007 KJELLER, NORWAY",
+      "purchase_order_number": "546210",
+      "currency": "NOK",
+      "pages": [
+        7,
+        8
+      ],
+      "items": [
+        {
+          "item_name": "PUMPHJUL",
+          "quantity": 1.0,
+          "unit_price": 8750.51,
+          "nett_value": 8750.51,
+          "hs_code": "84139100",
+          "page_number": 7
+        },
+        {
+          "item_name": "SLITRING",
+          "quantity": 1.0,
+          "unit_price": 808.35,
+          "nett_value": 808.35,
+          "hs_code": "84139100",
+          "page_number": 7
+        },
+        {
+          "item_name": "SEXKANTHALSKRUV ISO 4762 M10X35-A2-70",
+          "quantity": 1.0,
+          "unit_price": 8.61,
+          "nett_value": 8.61,
+          "hs_code": "73181562",
+          "page_number": 7
+        }
+      ],
+      "totals": {
+        "subtotal": null,
+        "tax": null,
+        "grand_total": 9567.47
+      }
+    },
+    {
+      "invoice_number": "882742",
+      "invoice_date": "2025-08-18",
+      "customer_name": "Bre@drene Sperre AS",
+      "customer_address": "Ellingsgyvegen 680, 6057 ELLINGS@Y, Norway",
+      "vendor_name": "XYLEM WATER SOLUTIONS AS",
+      "vendor_address": "FETVEIEN 23, NO-2007 KJELLER, NORWAY",
+      "purchase_order_number": "545883",
+      "currency": "NOK",
+      "pages": [
+        11,
+        12
+      ],
+      "items": [
+        {
+          "item_name": "PUMPHJUL",
+          "quantity": 1.0,
+          "unit_price": 16603.64,
+          "nett_value": 16603.64,
+          "hs_code": "84139100",
+          "page_number": 11
+        }
+      ],
+      "totals": {
+        "subtotal": null,
+        "tax": null,
+        "grand_total": 16603.64
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:conda",
+		"python-envs.defaultPackageManager": "ms-python.python:conda",
+		"terminal.integrated.env.osx": {
+			"OPENAI_API_KEY": "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"
+		}
+	}
+}
